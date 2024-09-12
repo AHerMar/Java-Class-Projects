@@ -1,5 +1,5 @@
 import java.lang.Math;
-//Finds the root using Newton's Method, using an aboslute error stopping criterion and a tolerance of 0.00005
+//Finds the root using Newton's Method, using an absolute error stopping criterion and a tolerance of 0.00005
 //Math 225 Spring 2024
 public class Newton{
   public static double iterFunc (double x){
